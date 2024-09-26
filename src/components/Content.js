@@ -40,7 +40,7 @@ const Content = () => {
             <div className="offerings-container">
                 <h2 className="section-title">WHAT WE OFFER</h2>
                 <div className="offering-box">
-                    <h3>Concept & Planning</h3>
+                    <h3>CONCEPT & PLANNING</h3>
                     <p>Every successful app begins with a clear idea. We collaborate closely with you to define your app’s core purpose, target audience, and key features.</p>
                 </div>
                 <div className="offering-box">
